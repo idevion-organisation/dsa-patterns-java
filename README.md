@@ -12,6 +12,8 @@
 ![Pattern Based](https://img.shields.io/badge/Learning-Pattern%20Based-blue?style=for-the-badge)
 ![Beginner Friendly](https://img.shields.io/badge/Level-Beginner%20Friendly-brightgreen?style=for-the-badge)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-purple?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/idevion-organisation/dsa-patterns-java?style=for-the-badge)
+![Repo Views](https://visitor-badge.laobi.icu/badge?page_id=idevion-organisation.dsa-patterns-java)
 
 </div>
 
@@ -250,8 +252,31 @@ Pattern recognition is the real skill in DSA.
 ## Maintained By
 
 Built by **Idevion** as a beginner-friendly open-source learning initiative.
+Idevion focuses on helping students grow through learning resources, roadmaps, projects, and open-source collaboration.
 
-Edifyon focuses on helping students grow through learning resources, roadmaps, projects, and open-source collaboration.
+---
+
+## Connect With Idevion
+
+<div align="center">
+
+<a href="https://github.com/idevion-organisation">
+  <img src="https://img.shields.io/badge/GitHub-Idevion-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/company/idevion/">
+  <img src="https://img.shields.io/badge/LinkedIn-Idevion-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/idevion_network">
+  <img src="https://img.shields.io/badge/Instagram-Idevion-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="mailto:idevion.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Us-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
