@@ -90,7 +90,7 @@ arrays/
 | Day | Topic | Status |
 |---:|---|---|
 | 1 | What is Array | ✅ Live |
-| 2 | How to Approach Array Problems | Coming soon |
+| 2 | How to Approach Array Problems | ✅ Live |
 | 3 | Traversal and Linear Search | Coming soon |
 | 4 | Binary Search | Coming soon |
 | 5 | Two Pointers | Coming soon |
