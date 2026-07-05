@@ -63,17 +63,25 @@ We are starting with **Arrays**, because arrays are the foundation of many impor
 
 ```txt
 arrays/
-└── 00-what-is-array/
-    ├── 01-what-is-array.md
-    ├── 02-array-complexity.md
-    └── 03-basic-array-practice.md
+├── 00-what-is-array/
+│   ├── 01-what-is-array.md
+│   ├── 02-array-complexity.md
+│   └── 03-basic-array-practice.md
+│
+└── 01-how-to-approach-array-problems/
+    ├── 01-how-to-approach-array-problems.md
+    ├── 02-array-pattern-identification.md
+    └── 03-day-2-practice.md
 ```
 
-| File | What It Covers |
-|---|---|
-| `01-what-is-array.md` | 1D array, 2D array, indexing, formulas, traversal, mistakes |
-| `02-array-complexity.md` | Array operation complexity and constraint-based thinking |
-| `03-basic-array-practice.md` | Manual, LeetCode, CodeChef, and Codeforces beginner practice |
+| Folder | File | What It Covers |
+|---|---|---|
+| `00-what-is-array` | `01-what-is-array.md` | 1D array, 2D array, indexing, formulas, traversal, mistakes |
+| `00-what-is-array` | `02-array-complexity.md` | Array operation complexity and constraint-based thinking |
+| `00-what-is-array` | `03-basic-array-practice.md` | Manual, LeetCode, CodeChef, and Codeforces beginner practice |
+| `01-how-to-approach-array-problems` | `01-how-to-approach-array-problems.md` | Step-by-step approach to solving array problems |
+| `01-how-to-approach-array-problems` | `02-array-pattern-identification.md` | How to identify array patterns from question signals |
+| `01-how-to-approach-array-problems` | `03-day-2-practice.md` | Pattern-identification practice with answer key |
 
 ---
 
