@@ -64,46 +64,45 @@ We are starting with **Arrays**, because arrays are the foundation of many impor
 ```txt
 arrays/
 ├── 00-what-is-array/
-│   ├── 01-what-is-array.md
-│   ├── 02-array-complexity.md
-│   └── 03-basic-array-practice.md
-│
-└── 01-how-to-approach-array-problems/
-    ├── 01-how-to-approach-array-problems.md
-    ├── 02-array-pattern-identification.md
-    └── 03-day-2-practice.md
+├── 01-how-to-approach-array-problems/
+├── 02-pattern-01-traversal/
+└── 03-pattern-02-linear-search/
 ```
 
-| Folder | File | What It Covers |
-|---|---|---|
-| `00-what-is-array` | `01-what-is-array.md` | 1D array, 2D array, indexing, formulas, traversal, mistakes |
-| `00-what-is-array` | `02-array-complexity.md` | Array operation complexity and constraint-based thinking |
-| `00-what-is-array` | `03-basic-array-practice.md` | Manual, LeetCode, CodeChef, and Codeforces beginner practice |
-| `01-how-to-approach-array-problems` | `01-how-to-approach-array-problems.md` | Step-by-step approach to solving array problems |
-| `01-how-to-approach-array-problems` | `02-array-pattern-identification.md` | How to identify array patterns from question signals |
-| `01-how-to-approach-array-problems` | `03-day-2-practice.md` | Pattern-identification practice with answer key |
+| Day | Topic                          | Status |
+| --: | ------------------------------ | ------ |
+|   1 | What is Array                  | ✅ Live |
+|   2 | How to Approach Array Problems | ✅ Live |
+|   3 | Pattern 01: Traversal          | ✅ Live |
+|   4 | Pattern 02: Linear Search      | ✅ Live |
+
 
 ---
 
 ## 15-Day Array Plan
 
-| Day | Topic | Status |
-|---:|---|---|
-| 1 | What is Array | ✅ Live |
-| 2 | How to Approach Array Problems | ✅ Live |
-| 3 | Traversal and Linear Search | Coming soon |
-| 4 | Binary Search | Coming soon |
-| 5 | Two Pointers | Coming soon |
-| 6 | In-place Overwrite | Coming soon |
-| 7 | HashSet and HashMap | Coming soon |
-| 8 | Sorting | Coming soon |
-| 9 | Sliding Window | Coming soon |
-| 10 | Prefix Sum | Coming soon |
-| 11 | Prefix Sum + HashMap | Coming soon |
-| 12 | Kadane and Stock Profit | Coming soon |
-| 13 | XOR, Math Formula, Rotate Array | Coming soon |
-| 14 | Advanced Array Patterns | Coming soon |
-| 15 | Matrix and Final Checklist | Coming soon |
+| Day | Topic                                                                 | Status      |
+| --: | --------------------------------------------------------------------- | ----------- |
+|   1 | What is Array                                                         | ✅ Live      |
+|   2 | How to Approach Array Problems                                        | ✅ Live      |
+|   3 | Pattern 01: Traversal                                                 | ✅ Live      |
+|   4 | Pattern 02: Linear Search                                             | ✅ Live      |
+|   5 | Pattern 03: Binary Search                                             | Coming soon |
+|   6 | Pattern 04: Two Pointers                                              | Coming soon |
+|   7 | Pattern 05: In-place Overwrite                                        | Coming soon |
+|   8 | Pattern 06: HashSet / Duplicate Detection                             | Coming soon |
+|   9 | Pattern 07: HashMap Frequency                                         | Coming soon |
+|  10 | Pattern 08: Sorting-Based Patterns                                    | Coming soon |
+|  11 | Pattern 09: Merge Sorted Arrays                                       | Coming soon |
+|  12 | Pattern 10: Fixed Size Sliding Window                                 | Coming soon |
+|  13 | Pattern 11: Variable Size Sliding Window                              | Coming soon |
+|  14 | Pattern 12: Prefix Sum                                                | Coming soon |
+|  15 | Pattern 13: Prefix Sum + HashMap                                      | Coming soon |
+|  16 | Pattern 14: Kadane’s Algorithm                                        | Coming soon |
+|  17 | Pattern 15: Stock Profit Pattern                                      | Coming soon |
+|  18 | Pattern 16: XOR and Math Formula                                      | Coming soon |
+|  19 | Pattern 17: Rotate, Dutch Flag, Product Except Self, Difference Array | Coming soon |
+|  20 | Pattern 18: Matrix, Spiral Matrix, Final Checklist                    | Coming soon |
 
 ---
 
