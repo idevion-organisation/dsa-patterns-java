@@ -87,20 +87,20 @@ arrays/
 |   2 | How to Approach Array Problems                                        | ✅ Live      |
 |   3 | Pattern 01: Traversal                                                 | ✅ Live      |
 |   4 | Pattern 02: Linear Search                                             | ✅ Live      |
-|   5 | Pattern 03: Binary Search                                             | Coming soon |
-|   6 | Pattern 04: Two Pointers                                              | Coming soon |
-|   7 | Pattern 05: In-place Overwrite                                        | Coming soon |
-|   8 | Pattern 06: HashSet / Duplicate Detection                             | Coming soon |
-|   9 | Pattern 07: HashMap Frequency                                         | Coming soon |
-|  10 | Pattern 08: Sorting-Based Patterns                                    | Coming soon |
-|  11 | Pattern 09: Merge Sorted Arrays                                       | Coming soon |
-|  12 | Pattern 10: Fixed Size Sliding Window                                 | Coming soon |
-|  13 | Pattern 11: Variable Size Sliding Window                              | Coming soon |
-|  14 | Pattern 12: Prefix Sum                                                | Coming soon |
-|  15 | Pattern 13: Prefix Sum + HashMap                                      | Coming soon |
-|  16 | Pattern 14: Kadane’s Algorithm                                        | Coming soon |
-|  17 | Pattern 15: Stock Profit Pattern                                      | Coming soon |
-|  18 | Pattern 16: XOR and Math Formula                                      | Coming soon |
+|   5 | Pattern 03: Binary Search                                             | ✅ Live   |
+|   6 | Pattern 04: Two Pointers                                              | ✅ Live   |
+|   7 | Pattern 05: In-place Overwrite                                        | ✅ Live   |
+|   8 | Pattern 06: HashSet / Duplicate Detection                             | ✅ Live   |
+|   9 | Pattern 07: HashMap Frequency                                         | ✅ Live   |
+|  10 | Pattern 08: Sorting-Based Patterns                                    | ✅ Live |
+|  11 | Pattern 09: Merge Sorted Arrays                                       | ✅ Live |
+|  12 | Pattern 10: Fixed Size Sliding Window                                 | ✅ Live |
+|  13 | Pattern 11: Variable Size Sliding Window                              | ✅ Live |
+|  14 | Pattern 12: Prefix Sum                                                | ✅ Live |
+|  15 | Pattern 13: Prefix Sum + HashMap                                      |✅ Live |
+|  16 | Pattern 14: Kadane’s Algorithm                                        | ✅ Live |
+|  17 | Pattern 15: Stock Profit Pattern                                      | ✅ Live |
+|  18 | Pattern 16: XOR and Math Formula                                      | ✅ Live   |
 |  19 | Pattern 17: Rotate, Dutch Flag, Product Except Self, Difference Array | Coming soon |
 |  20 | Pattern 18: Matrix, Spiral Matrix, Final Checklist                    | Coming soon |
 
