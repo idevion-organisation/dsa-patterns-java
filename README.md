@@ -8,20 +8,25 @@
 
 <br/>
 
+<div align="center">
+
 ![Java](https://img.shields.io/badge/Java-DSA-orange?style=for-the-badge&logo=openjdk)
 ![Pattern Based](https://img.shields.io/badge/Learning-Pattern%20Based-blue?style=for-the-badge)
 ![Beginner Friendly](https://img.shields.io/badge/Level-Beginner%20Friendly-brightgreen?style=for-the-badge)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-purple?style=for-the-badge)
+![GitHub Release](https://img.shields.io/github/v/release/idevion-organisation/dsa-patterns-java?style=for-the-badge&label=Release)
 ![Last Commit](https://img.shields.io/github/last-commit/idevion-organisation/dsa-patterns-java?style=for-the-badge)
 ![Repo Views](https://visitor-badge.laobi.icu/badge?page_id=idevion-organisation.dsa-patterns-java)
 
 </div>
 
+---
+
 ## Current Progress
 
-✅ v1.0 Array Pattern-Wise Module completed  ![GitHub release](https://img.shields.io/github/v/release/idevion-organisation/dsa-patterns-java?label=release)
+✅ **v1.0 Array Pattern-Wise Module completed**
 
-🚧 v2.0 Linked List Pattern-Wise Module started
+🚧 **v2.0 Linked List Pattern-Wise Module started**
 
 ---
 
