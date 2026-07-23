@@ -17,6 +17,9 @@
 
 </div>
 
+![GitHub release](https://img.shields.io/github/v/release/idevion-organisation/dsa-patterns-java?label=release)
+![GitHub stars](https://img.shields.io/github/stars/idevion-organisation/dsa-patterns-java?style=social)
+![GitHub forks](https://img.shields.io/github/forks/idevion-organisation/dsa-patterns-java?style=social)
 ---
 
 # DSA Patterns Java
