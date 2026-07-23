@@ -17,9 +17,12 @@
 
 </div>
 
-![GitHub release](https://img.shields.io/github/v/release/idevion-organisation/dsa-patterns-java?label=release)
-![GitHub stars](https://img.shields.io/github/stars/idevion-organisation/dsa-patterns-java?style=social)
-![GitHub forks](https://img.shields.io/github/forks/idevion-organisation/dsa-patterns-java?style=social)
+## Current Progress
+
+✅ v1.0 Array Pattern-Wise Module completed  ![GitHub release](https://img.shields.io/github/v/release/idevion-organisation/dsa-patterns-java?label=release)
+
+🚧 v2.0 Linked List Pattern-Wise Module started
+
 ---
 
 # DSA Patterns Java
