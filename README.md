@@ -61,48 +61,30 @@ The goal is simple:
 
 We are starting with **Arrays**, because arrays are the foundation of many important DSA patterns.
 
-```txt
-arrays/
-├── 00-what-is-array/
-├── 01-how-to-approach-array-problems/
-├── 02-pattern-01-traversal/
-└── 03-pattern-02-linear-search/
-```
-
-| Day | Topic                          | Status |
-| --: | ------------------------------ | ------ |
-|   1 | What is Array                  | ✅ Live |
-|   2 | How to Approach Array Problems | ✅ Live |
-|   3 | Pattern 01: Traversal          | ✅ Live |
-|   4 | Pattern 02: Linear Search      | ✅ Live |
-
-
----
-
-## 15-Day Array Plan
-
-| Day | Topic                                                                 | Status      |
-| --: | --------------------------------------------------------------------- | ----------- |
-|   1 | What is Array                                                         | ✅ Live      |
-|   2 | How to Approach Array Problems                                        | ✅ Live      |
-|   3 | Pattern 01: Traversal                                                 | ✅ Live      |
-|   4 | Pattern 02: Linear Search                                             | ✅ Live      |
-|   5 | Pattern 03: Binary Search                                             | ✅ Live   |
-|   6 | Pattern 04: Two Pointers                                              | ✅ Live   |
-|   7 | Pattern 05: In-place Overwrite                                        | ✅ Live   |
-|   8 | Pattern 06: HashSet / Duplicate Detection                             | ✅ Live   |
-|   9 | Pattern 07: HashMap Frequency                                         | ✅ Live   |
-|  10 | Pattern 08: Sorting-Based Patterns                                    | ✅ Live |
-|  11 | Pattern 09: Merge Sorted Arrays                                       | ✅ Live |
-|  12 | Pattern 10: Fixed Size Sliding Window                                 | ✅ Live |
-|  13 | Pattern 11: Variable Size Sliding Window                              | ✅ Live |
-|  14 | Pattern 12: Prefix Sum                                                | ✅ Live |
-|  15 | Pattern 13: Prefix Sum + HashMap                                      |✅ Live |
-|  16 | Pattern 14: Kadane’s Algorithm                                        | ✅ Live |
-|  17 | Pattern 15: Stock Profit Pattern                                      | ✅ Live |
-|  18 | Pattern 16: XOR and Math Formula                                      | ✅ Live   |
-|  19 | Pattern 17: Rotate, Dutch Flag, Product Except Self, Difference Array | Coming soon |
-|  20 | Pattern 18: Matrix, Spiral Matrix, Final Checklist                    | Coming soon |
+| Day | Topic | Status |
+|---:|---|---|
+| 1 | What is Array | ✅ Live |
+| 2 | How to Approach Array Problems | ✅ Live |
+| 3 | Pattern 01: Traversal | ✅ Live |
+| 4 | Pattern 02: Linear Search | ✅ Live |
+| 5 | Pattern 03: Binary Search | ✅ Live |
+| 6 | Pattern 04: Two Pointers | ✅ Live |
+| 7 | Pattern 05: In-place Overwrite | ✅ Live |
+| 8 | Pattern 06: HashSet / Duplicate Detection | ✅ Live |
+| 9 | Pattern 07: HashMap Frequency | ✅ Live |
+| 10 | Pattern 08: Sorting-Based Patterns | ✅ Live |
+| 11 | Pattern 09: Merge Sorted Arrays | ✅ Live |
+| 12 | Pattern 10: Fixed Size Sliding Window | ✅ Live |
+| 13 | Pattern 11: Variable Size Sliding Window | ✅ Live |
+| 14 | Pattern 12: Prefix Sum | ✅ Live |
+| 15 | Pattern 13: Prefix Sum + HashMap | ✅ Live |
+| 16 | Pattern 14: Kadane’s Algorithm | ✅ Live |
+| 17 | Pattern 15: Stock Profit Pattern | ✅ Live |
+| 18 | Pattern 16: XOR and Math Formula | ✅ Live |
+| 19 | Pattern 17: Rotate, Dutch Flag, Product Except Self, Difference Array | ✅ Live |
+| 20 | Pattern 18: Matrix and Final Checklist | ✅ Live |
+| 21 | Easy Mixed Array Practice | ✅ Live |
+| 22 | Medium Mixed Array Practice | ✅ Live |
 
 ---
 
