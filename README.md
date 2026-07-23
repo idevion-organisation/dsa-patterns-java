@@ -13,6 +13,8 @@
 ![Beginner Friendly](https://img.shields.io/badge/Level-Beginner%20Friendly-brightgreen?style=for-the-badge)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-purple?style=for-the-badge)
 ![Release](https://img.shields.io/badge/Release-v1.0--array--patterns-success?style=for-the-badge)
+![Current Module](https://img.shields.io/badge/Current%20Module-Linked%20List-blueviolet?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Actively%20Maintained-brightgreen?style=for-the-badge)
 ![Repo Views](https://visitor-badge.laobi.icu/badge?page_id=idevion-organisation.dsa-patterns-java)
 
 </div>
@@ -21,8 +23,7 @@
 
 ## Current Progress
 
-✅ **v1.0 Array Pattern-Wise Module completed**
-
+✅ **v1.0 Array Pattern-Wise Module completed**  
 🚧 **v2.0 Linked List Pattern-Wise Module started**
 
 ---
@@ -32,7 +33,7 @@
 A beginner-friendly repository for learning **Data Structures and Algorithms in Java** through **problem-solving patterns**.
 
 Most beginners memorize solutions, but still get stuck on new problems.  
-This repo helps you understand the pattern behind a question, dry run the logic, analyze complexity, avoid mistakes, and practice step by step.
+This repo helps students understand the pattern behind a question, dry run the logic, analyze complexity, avoid mistakes, and practice step by step.
 
 ```txt
 Memorizing solutions ❌
@@ -45,7 +46,7 @@ Solving with confidence ✅
 
 ## Why This Repo?
 
-Most DSA repos show:
+Most DSA repos follow:
 
 ```txt
 Problem → Code → Output
@@ -63,11 +64,55 @@ The goal is simple:
 
 ---
 
-## Current Learning Track
+## Completed Modules
 
-### Array DSA Patterns in Java
+| Version | Module | Status |
+|---|---|---|
+| v1.0 | [Array Patterns in Java](./arrays) | ✅ Completed |
 
-We are starting with **Arrays**, because arrays are the foundation of many important DSA patterns.
+---
+
+## Current Module
+
+| Version | Module | Status |
+|---|---|---|
+| v2.0 | [Linked List Patterns in Java](./linked-list) | 🚧 In Progress |
+
+---
+
+## Project Roadmap
+
+| Version | Module | Status |
+|---|---|---|
+| v1.0 | [Array Patterns](./arrays) | ✅ Completed |
+| v2.0 | [Linked List Patterns](./linked-list) | 🚧 In Progress |
+| v3.0 | Stack Patterns | Planned |
+| v4.0 | Queue Patterns | Planned |
+| v5.0 | String Patterns | Planned |
+| v6.0 | Recursion Patterns | Planned |
+| v7.0 | Tree Patterns | Planned |
+| v8.0 | Graph Patterns | Planned |
+| v9.0 | Dynamic Programming Patterns | Planned |
+| v10.0 | Mixed Interview Practice | Planned |
+
+---
+
+## Completed: Array Patterns in Java
+
+The first complete module is **Array Patterns in Java**.
+
+It includes:
+
+```txt
+22-day structured roadmap
+18 core array patterns
+Java templates
+Dry runs
+Common mistakes
+Easy mixed practice
+Medium mixed practice
+Pattern identification approach
+```
 
 | Day | Topic | Status |
 |---:|---|---|
@@ -93,6 +138,77 @@ We are starting with **Arrays**, because arrays are the foundation of many impor
 | 20 | Pattern 18: Matrix and Final Checklist | ✅ Live |
 | 21 | Easy Mixed Array Practice | ✅ Live |
 | 22 | Medium Mixed Array Practice | ✅ Live |
+
+---
+
+## Started: Linked List Patterns in Java
+
+The second module is **Linked List Patterns in Java**.
+
+It follows the same structure as the Array module:
+
+```txt
+Concept
+Pattern recognition
+Dry run
+Java implementation
+Complexity
+Common mistakes
+Practice
+```
+
+The Linked List module is planned as:
+
+```txt
+19-day module
+15 core linked list patterns
+Beginner to interview-ready flow
+```
+
+| Day | Topic | Status |
+|---:|---|---|
+| 1 | What is Linked List | Planned |
+| 2 | How to Approach Linked List Problems | Planned |
+| 3 | Pattern 01: Traversal, Search and Length | Planned |
+| 4 | Pattern 02: Pointer Rewiring: Insertion, Deletion and Swapping | Planned |
+| 5 | Pattern 03: Dummy Node / Sentinel Node | Planned |
+| 6 | Pattern 04: Two Pointers Gap Pattern | Planned |
+| 7 | Pattern 05: Fast and Slow Pointers | Planned |
+| 8 | Pattern 06: Cycle Detection / Floyd’s Algorithm | Planned |
+| 9 | Pattern 07: Linked List Reversal | Planned |
+| 10 | Pattern 08: Advanced Reversal: Sublist, Pairs and K-Group | Planned |
+| 11 | Pattern 09: Merge Pattern | Planned |
+| 12 | Pattern 10: Split and Merge Sort Pattern | Planned |
+| 13 | Pattern 11: Palindrome Checking Pattern | Planned |
+| 14 | Pattern 12: Intersection of Linked Lists | Planned |
+| 15 | Pattern 13: Add Two Numbers / Carry Pattern | Planned |
+| 16 | Pattern 14: List Weaving and Reordering Pattern | Planned |
+| 17 | Pattern 15: Clone List With Random Pointer | Planned |
+| 18 | Easy Mixed Linked List Practice | Planned |
+| 19 | Medium Mixed Linked List Practice | Planned |
+
+---
+
+## Standard Folder Structure
+
+Every learning day or pattern folder follows this structure wherever applicable:
+
+```txt
+folder-name/
+├── 01-concept-or-pattern-name.md
+├── 02-pattern-name-templates-java.md
+└── 03-day-N-practice.md
+```
+
+Example:
+
+```txt
+linked-list/
+└── 08-pattern-07-linked-list-reversal/
+    ├── 01-pattern-07-linked-list-reversal.md
+    ├── 02-linked-list-reversal-templates-java.md
+    └── 03-day-9-practice.md
+```
 
 ---
 
@@ -161,6 +277,12 @@ You need to identify it.
 | Subarray of size `k` | Sliding Window |
 | Range sum query | Prefix Sum |
 | Maximum subarray sum | Kadane’s Algorithm |
+| Node movement | Linked List Traversal |
+| Head deletion / edge cases | Dummy Node |
+| Nth node from end | Two Pointers Gap |
+| Middle / split list | Fast and Slow Pointers |
+| Reverse links | Linked List Reversal |
+| Cycle in list | Floyd’s Cycle Detection |
 
 </details>
 
@@ -177,32 +299,7 @@ This repo is useful for:
 - LeetCode / CodeChef / Codeforces beginners
 - students who struggle to identify patterns
 - learners who want clean revision notes
-
-</details>
-
----
-
-<details>
-<summary><b>Future Roadmap</b></summary>
-
-After Array patterns, this repo can expand into:
-
-| Topic | Focus |
-|---|---|
-| Strings | Two pointers, frequency, palindrome, substring |
-| Linked List | Fast-slow pointer, reversal, cycle detection |
-| Stack & Queue | Monotonic stack, next greater element, BFS basics |
-| Recursion | Base case, choices, recursion tree |
-| Trees | DFS, BFS, height, path problems |
-| Graphs | BFS, DFS, shortest path basics |
-| Dynamic Programming | Memoization, tabulation, state thinking |
-| Java Templates | Reusable problem-solving templates |
-
-Long-term goal:
-
-```txt
-Build a complete beginner-friendly DSA pattern guide in Java.
-```
+- students preparing for internships and coding rounds
 
 </details>
 
@@ -226,10 +323,14 @@ You can help by adding:
 
 Before contributing:
 
+- read the [Contribution Guidelines](./CONTRIBUTING.md)
+- follow the standard folder structure
 - keep explanations simple
 - write readable Java code
 - mention time and space complexity where needed
 - do not add copied paid/protected content
+
+Please also follow the [Code of Conduct](./CODE_OF_CONDUCT.md).
 
 </details>
 
@@ -249,6 +350,7 @@ Pattern recognition is the real skill in DSA.
 ## Maintained By
 
 Built by **Idevion** as a beginner-friendly open-source learning initiative.
+
 Idevion focuses on helping students grow through learning resources, roadmaps, projects, and open-source collaboration.
 
 ---
